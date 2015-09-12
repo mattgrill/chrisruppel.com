@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html class="wf-loading">
+  <head>
+    <meta charset="utf-8">
+    <title>Cowtown &nbsp;💞 Chris Ruppel</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="author" href="http://chrisruppel.com">
+    <link rel="alternate" type="application/rss+xml" title="Chris' Travels" href="http://localhost:3000/travel.xml">
+
+    <link rel="stylesheet" type="text/css" href="/css/main.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <main>
+      <article class="trip">
+  <header>
+    <h1 class="title">Cowtown</h1>
+    <h2 class="subtitle"><time datetime="2015-08-24">Aug 24, 2015</time> in Fort Worth, Texas</h2>
+  </header>
+
+  <aside class="summary">My mom and I showed Karin around the Fort Worth Stockyards when we visited her before our trip to <abbr title="Southeast">S.E.</abbr> Asia. She had a blast checking out all them there Texans.</aside>
+
+  <div class="story">
+    
+<figure class="gallery  tall">
+  
+    
+      <span class="photo"
+            style="background-image: url(/img/travel/cowtown-1.jpg); background-position: 52% 0; "
+            title="COMMENT">
+        <img src="/img/travel/cowtown-1.jpg"
+             alt="A large silhouette statue of a historical figure in Texas."
+             class="element-invisible">
+      </span>
+    
+    
+  
+    
+      <span class="photo"
+            style="background-image: url(/img/travel/cowtown-2.jpg);  "
+            title="The afternoon cattle run.">
+        <img src="/img/travel/cowtown-2.jpg"
+             alt="There is are two daily cattle runs in the Stockyards. It's a small ordeal, but fun to watch."
+             class="element-invisible">
+      </span>
+    
+    
+  
+    
+      <span class="photo"
+            style="background-image: url(/img/travel/cowtown-3.jpg);  "
+            title="We went bull-riding!">
+        <img src="/img/travel/cowtown-3.jpg"
+             alt="People posing on a fake bull as if they were riding it."
+             class="element-invisible">
+      </span>
+    
+    
+  
+    
+      <span class="photo"
+            style="background-image: url(/img/travel/cowtown-4.jpg);  "
+            title="Karin loved this Texas-sized truck.">
+        <img src="/img/travel/cowtown-4.jpg"
+             alt="Woman posing in front of large pickup truck."
+             class="element-invisible">
+      </span>
+    
+    
+  
+    
+      <span class="photo wide"
+            style="background-image: url(/img/travel/cowtown-5.jpg);  "
+            title="">
+        <img src="/img/travel/cowtown-5.jpg"
+             alt="Panoramic photo of the stockyards where cattle are kept."
+             class="element-invisible">
+      </span>
+    
+    
+  
+</figure>
+
+
+
+    <div class="the-end" aria-label="The End."></div>
+  </div>
+
+  
+    <!-- mapbox dependencies and config -->
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.0/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.0/mapbox.css' rel='stylesheet'>
+<script>L.mapbox.accessToken = 'pk.eyJ1IjoicnVwbCIsImEiOiI3NDc5MWQ4ZWNjMTg1ZmZlYWQ5ZjMwMWVkNjI2MTJlZCJ9.Szn0ysZDc6AjmhKnxf8PkA';</script>
+
+
+<!-- mapbox container -->
+<div id='map-init' class='map'> </div>
+
+<!-- mapbox init -->
+<script>
+  var map = L.mapbox.map('map-init', 'mapbox.streets');
+
+  var geocoder = L.mapbox.geocoder('mapbox.places');
+  geocoder.query('', showMap);
+
+  function showMap(err, data) {
+    // if (data.lbounds) {
+    //     map.fitBounds(data.lbounds);
+    //     var marker = L.marker([data.latlng[0], data.latlng[1]]).addTo(map);
+    // } else if (data.latlng) {
+      map.setView([data.latlng[0], data.latlng[1]], );
+      L.marker([data.latlng[0], data.latlng[1]]).addTo(map);
+    // }
+  }
+</script>
+
+  
+
+  
+
+  <a class="back" href="/travel/">Back to Travel</a>
+</article>
+
+    </main>
+    <script async src="/js/main.min.js"></script>
+  </body>
+</html>
