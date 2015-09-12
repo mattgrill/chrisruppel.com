@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://localhost:3000/travel.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://chrisruppel.com/travel.xml" rel="self" type="application/rss+xml" />
     <title>Chris Ruppel</title>
-    <link>http://localhost:3000</link>
+    <link>http://chrisruppel.com</link>
     <description>A travel blog detailing the adventures of Chris Ruppel.</description>
     <language>en</language>
 
@@ -12,7 +12,7 @@
       <title>Cowtown</title>
       <link>/travel/cowtown-ft-worth-texas/</link>
       <description>My mom and I showed Karin around the Fort Worth Stockyards when we visited her before our trip to &lt;abbr title=&quot;Southeast&quot;&gt;S.E.&lt;/abbr&gt; Asia. She had a blast checking out all them there Texans.</description>
-      <guid isPermaLink="true">http://localhost:3000/travel/cowtown-ft-worth-texas/</guid>
+      <guid isPermaLink="true">http://chrisruppel.com/travel/cowtown-ft-worth-texas/</guid>
       <pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
     </item>
     
@@ -20,7 +20,7 @@
       <title>Visiting Friends</title>
       <link>/travel/ann-arbor-michigan/</link>
       <description>We visited Jordan and Annette in Ann Arbor, Michigan. We had a fun week of hiking, canoeing, and furniture-building.</description>
-      <guid isPermaLink="true">http://localhost:3000/travel/ann-arbor-michigan/</guid>
+      <guid isPermaLink="true">http://chrisruppel.com/travel/ann-arbor-michigan/</guid>
       <pubDate>Fri, 14 Aug 2015 00:00:00 +0200</pubDate>
     </item>
     
@@ -28,7 +28,7 @@
       <title>Val Maggia</title>
       <link>/travel/val-maggia-switzerland/</link>
       <description>We spent the 4th of July in Val Maggia, a stunning valley with superb camping.</description>
-      <guid isPermaLink="true">http://localhost:3000/travel/val-maggia-switzerland/</guid>
+      <guid isPermaLink="true">http://chrisruppel.com/travel/val-maggia-switzerland/</guid>
       <pubDate>Sat, 04 Jul 2015 00:00:00 +0200</pubDate>
     </item>
     
@@ -36,7 +36,7 @@
       <title>Bristol</title>
       <link>/travel/bristol-england/</link>
       <description>I went to Frontend United in Bristol. They had some sweet graffiti.</description>
-      <guid isPermaLink="true">http://localhost:3000/travel/bristol-england/</guid>
+      <guid isPermaLink="true">http://chrisruppel.com/travel/bristol-england/</guid>
       <pubDate>Sat, 06 Jun 2015 00:00:00 +0200</pubDate>
     </item>
     
@@ -44,7 +44,7 @@
       <title>Buccaneers</title>
       <link>/travel/buccaneers-chintsa-south-africa/</link>
       <description>Our stop at Buccaneers was our last of the trip because it was so great! We stayed several days longer than we planned. It&#39;s a beautiful community situated across the entire side of a mountain facing the coast of Cintsa Bay.</description>
-      <guid isPermaLink="true">http://localhost:3000/travel/buccaneers-chintsa-south-africa/</guid>
+      <guid isPermaLink="true">http://chrisruppel.com/travel/buccaneers-chintsa-south-africa/</guid>
       <pubDate>Wed, 04 Mar 2015 00:00:00 +0100</pubDate>
     </item>
     
@@ -52,7 +52,7 @@
       <title>Amakhala Game Reserve</title>
       <link>/travel/amakhala-game-reserve/</link>
       <description>We enjoyed a luxurious, thrilling safari on the Amakhala Game Reserve. We saw four of the Big 5 in their natural habitats, living freely under the protection of the game park we visited.</description>
-      <guid isPermaLink="true">http://localhost:3000/travel/amakhala-game-reserve/</guid>
+      <guid isPermaLink="true">http://chrisruppel.com/travel/amakhala-game-reserve/</guid>
       <pubDate>Mon, 02 Mar 2015 00:00:00 +0100</pubDate>
     </item>
     
@@ -60,7 +60,7 @@
       <title>J-Bay</title>
       <link>/travel/jeffreys-bay-south-africa/</link>
       <description>Jeffreys Bay is a popular surfing spot with great beaches. We took it easy here and just enjoyed the scenery.</description>
-      <guid isPermaLink="true">http://localhost:3000/travel/jeffreys-bay-south-africa/</guid>
+      <guid isPermaLink="true">http://chrisruppel.com/travel/jeffreys-bay-south-africa/</guid>
       <pubDate>Fri, 27 Feb 2015 00:00:00 +0100</pubDate>
     </item>
     
@@ -68,7 +68,7 @@
       <title>Relaxing on the beach</title>
       <link>/travel/mossel-bay-south-africa/</link>
       <description>Mossel Bay is the east bookend of the Garden Route, offering a relaxing string of beaches. It&#39;s great for a private getaway.</description>
-      <guid isPermaLink="true">http://localhost:3000/travel/mossel-bay-south-africa/</guid>
+      <guid isPermaLink="true">http://chrisruppel.com/travel/mossel-bay-south-africa/</guid>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0100</pubDate>
     </item>
     
@@ -76,7 +76,7 @@
       <title>Lion's Head</title>
       <link>/travel/cape-town-lions-head/</link>
       <description>Lion&#39;s Head is an easy hike for people of all skill levels. We easily made the top in about an hour, and we heard it&#39;s a good spot for night hiking too.</description>
-      <guid isPermaLink="true">http://localhost:3000/travel/cape-town-lions-head/</guid>
+      <guid isPermaLink="true">http://chrisruppel.com/travel/cape-town-lions-head/</guid>
       <pubDate>Wed, 25 Feb 2015 00:00:00 +0100</pubDate>
     </item>
     
@@ -84,7 +84,7 @@
       <title>Setting the table</title>
       <link>/travel/cape-town-table-mountain/</link>
       <description>We hiked the India Venster on Table Mountain. It was an intense, challenging hike because we went off the trail.</description>
-      <guid isPermaLink="true">http://localhost:3000/travel/cape-town-table-mountain/</guid>
+      <guid isPermaLink="true">http://chrisruppel.com/travel/cape-town-table-mountain/</guid>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0100</pubDate>
     </item>
     
