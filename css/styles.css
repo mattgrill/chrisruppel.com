@@ -108,6 +108,12 @@ img {
   .back:focus {
     background-image: linear-gradient(to top, #fff, #eee); }
 
+@media (max-width: 860px) {
+  .btn--fixed--bottom {
+    position: fixed;
+    bottom: 2em;
+    width: calc(100% - 2em); } }
+
 .the-end {
   margin: 1.25em 0;
   font-size: 1.2em;
