@@ -258,11 +258,14 @@ img {
   margin-right: 0;
   background-position: 0 25%; }
 
-.trip-list .links {
-  margin: 0;
-  padding: 0; }
-  .trip-list .links li {
-    display: inline-block; }
+.trip-list .title {
+  font-weight: 300; }
+
+.trip-list time {
+  display: inline-block;
+  min-width: 165px;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.6); }
 
 .trip .title {
   float: left;
