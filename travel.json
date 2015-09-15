@@ -1,7 +1,8 @@
 {
   "trips": [
     {
-      "url": "http://localhost:3000/travel/cowtown-ft-worth-texas/",
+      "id": "2015-08-24-cowtown-ft-worth-texas",
+      "url": "http://chrisruppel.com/travel/cowtown-ft-worth-texas/",
       "title": "Cowtown",
       "location": "Fort Worth, Texas",
       "date": "2015-08-24 00:00:00 +0200",
@@ -65,7 +66,8 @@
     ,
   
     {
-      "url": "http://localhost:3000/travel/ann-arbor-michigan/",
+      "id": "2015-08-14-ann-arbor-michigan",
+      "url": "http://chrisruppel.com/travel/ann-arbor-michigan/",
       "title": "Visiting Friends",
       "location": "Ann Arbor, Michigan",
       "date": "2015-08-14 00:00:00 +0200",
@@ -119,7 +121,8 @@
     ,
   
     {
-      "url": "http://localhost:3000/travel/val-maggia-switzerland/",
+      "id": "2015-07-04-val-maggia-switzerland",
+      "url": "http://chrisruppel.com/travel/val-maggia-switzerland/",
       "title": "Camping on the River",
       "location": "Mal Vaggia, Switzerland",
       "date": "2015-07-04 00:00:00 +0200",
@@ -193,7 +196,8 @@
     ,
   
     {
-      "url": "http://localhost:3000/travel/graffiti-bristol-england/",
+      "id": "2015-06-06-graffiti-bristol-england",
+      "url": "http://chrisruppel.com/travel/graffiti-bristol-england/",
       "title": "Graffiti",
       "location": "Bristol, England",
       "date": "2015-06-06 00:00:00 +0200",
@@ -257,7 +261,8 @@
     ,
   
     {
-      "url": "http://localhost:3000/travel/buccaneers-chintsa-south-africa/",
+      "id": "2015-03-04-buccaneers-chintsa-south-africa",
+      "url": "http://chrisruppel.com/travel/buccaneers-chintsa-south-africa/",
       "title": "Buccaneers",
       "location": "Cintsa Bay, South Africa",
       "date": "2015-03-04 00:00:00 +0100",
@@ -321,7 +326,8 @@
     ,
   
     {
-      "url": "http://localhost:3000/travel/amakhala-game-reserve/",
+      "id": "2015-03-02-amakhala-game-reserve",
+      "url": "http://chrisruppel.com/travel/amakhala-game-reserve/",
       "title": "Amakhala Game Reserve",
       "location": "Addo Elephant National Park",
       "date": "2015-03-02 00:00:00 +0100",
@@ -425,7 +431,8 @@
     ,
   
     {
-      "url": "http://localhost:3000/travel/jeffreys-bay-south-africa/",
+      "id": "2015-02-27-jeffreys-bay-south-africa",
+      "url": "http://chrisruppel.com/travel/jeffreys-bay-south-africa/",
       "title": "J-Bay",
       "location": "Jeffreys Bay, South Africa",
       "date": "2015-02-27 00:00:00 +0100",
@@ -489,7 +496,8 @@
     ,
   
     {
-      "url": "http://localhost:3000/travel/mossel-bay-south-africa/",
+      "id": "2015-02-26-mossel-bay-south-africa",
+      "url": "http://chrisruppel.com/travel/mossel-bay-south-africa/",
       "title": "Relaxing on the beach",
       "location": "Mossel Bay, South Africa",
       "date": "2015-02-26 00:00:00 +0100",
@@ -543,7 +551,8 @@
     ,
   
     {
-      "url": "http://localhost:3000/travel/cape-town-lions-head/",
+      "id": "2015-02-25-cape-town-lions-head",
+      "url": "http://chrisruppel.com/travel/cape-town-lions-head/",
       "title": "Lion&#39;s Head",
       "location": "Cape Town, South Africa",
       "date": "2015-02-25 00:00:00 +0100",
@@ -617,7 +626,8 @@
     ,
   
     {
-      "url": "http://localhost:3000/travel/cape-town-table-mountain/",
+      "id": "2015-02-20-cape-town-table-mountain",
+      "url": "http://chrisruppel.com/travel/cape-town-table-mountain/",
       "title": "Setting the table",
       "location": "Cape Town, South Africa",
       "date": "2015-02-20 00:00:00 +0100",
