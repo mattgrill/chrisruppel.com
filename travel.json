@@ -2,7 +2,7 @@
   "trips": [
     {
       "id": "2015-08-24-cowtown-ft-worth-texas",
-      "url": "http://chrisruppel.com/travel/cowtown-ft-worth-texas/",
+      "url": "http://localhost:3000/travel/cowtown-ft-worth-texas/",
       "title": "Cowtown",
       "location": "Fort Worth, Texas",
       "date": "2015-08-24 00:00:00 +0200",
@@ -67,7 +67,7 @@
   
     {
       "id": "2015-08-14-ann-arbor-michigan",
-      "url": "http://chrisruppel.com/travel/ann-arbor-michigan/",
+      "url": "http://localhost:3000/travel/ann-arbor-michigan/",
       "title": "Visiting Friends",
       "location": "Ann Arbor, Michigan",
       "date": "2015-08-14 00:00:00 +0200",
@@ -122,7 +122,7 @@
   
     {
       "id": "2015-07-04-val-maggia-switzerland",
-      "url": "http://chrisruppel.com/travel/val-maggia-switzerland/",
+      "url": "http://localhost:3000/travel/val-maggia-switzerland/",
       "title": "Camping on the River",
       "location": "Mal Vaggia, Switzerland",
       "date": "2015-07-04 00:00:00 +0200",
@@ -197,7 +197,7 @@
   
     {
       "id": "2015-06-06-graffiti-bristol-england",
-      "url": "http://chrisruppel.com/travel/graffiti-bristol-england/",
+      "url": "http://localhost:3000/travel/graffiti-bristol-england/",
       "title": "Graffiti",
       "location": "Bristol, England",
       "date": "2015-06-06 00:00:00 +0200",
@@ -205,7 +205,7 @@
         "map": null,
       
       "summary": "I went to Frontend United in Bristol. They had some sweet graffiti.",
-      "content": "&lt;figure class=&quot;gallery  tall&quot;&gt;            &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/bristol-1.jpg);  &quot;            title=&quot;Robo-dragon&quot;&gt;        &lt;img src=&quot;/img/travel/bristol-1.jpg&quot;             alt=&quot;Graffiti of a large mechanical dragon.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/bristol-2.jpg);  &quot;            title=&quot;This was in the large roundabout in the city center.&quot;&gt;        &lt;img src=&quot;/img/travel/bristol-2.jpg&quot;             alt=&quot;Graffiti of a man wearing a gas mask.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/bristol-3.jpg); background-position: 0 16%; &quot;            title=&quot;&quot;&gt;        &lt;img src=&quot;/img/travel/bristol-3.jpg&quot;             alt=&quot;Graffiti of a sad girl.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/bristol-4.jpg); background-position: 0 30%; &quot;            title=&quot;&quot;&gt;        &lt;img src=&quot;/img/travel/bristol-4.jpg&quot;             alt=&quot;Tattoo art of the word Bristol&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/bristol-5.jpg);  &quot;            title=&quot;blarg&quot;&gt;        &lt;img src=&quot;/img/travel/bristol-5.jpg&quot;             alt=&quot;Graffiti of indeterminate creatures.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;          &lt;/figure&gt;",
+      "content": "",
       "gallery": [
         {
           "type": "",
@@ -262,7 +262,7 @@
   
     {
       "id": "2015-03-04-buccaneers-chintsa-south-africa",
-      "url": "http://chrisruppel.com/travel/buccaneers-chintsa-south-africa/",
+      "url": "http://localhost:3000/travel/buccaneers-chintsa-south-africa/",
       "title": "Buccaneers",
       "location": "Cintsa Bay, South Africa",
       "date": "2015-03-04 00:00:00 +0100",
@@ -270,7 +270,7 @@
         "map": null,
       
       "summary": "Our stop at Buccaneers was our last of the trip because it was so great! We stayed several days longer than we planned. It&#39;s a beautiful community situated across the entire side of a mountain facing the coast of Cintsa Bay.",
-      "content": "&lt;figure class=&quot;gallery  tall&quot;&gt;            &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/buccaneers-1.jpg); background-position: 36% 0; &quot;            title=&quot;We had a private hut with a georgeous view of the bay!&quot;&gt;        &lt;img src=&quot;/img/travel/buccaneers-1.jpg&quot;             alt=&quot;Overlooking Cintsa Bay from a hut at Buccaneers lodge.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/buccaneers-2.jpg);  &quot;            title=&quot;The &#39;View of Africa&#39; breakfast room at Buccaneers.&quot;&gt;        &lt;img src=&quot;/img/travel/buccaneers-2.jpg&quot;             alt=&quot;A breakfast room with a balcony overlooking an ocean.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/buccaneers-3.jpg); background-position: 0 30%; &quot;            title=&quot;The bridge that took us from the beach to the lodge.&quot;&gt;        &lt;img src=&quot;/img/travel/buccaneers-3.jpg&quot;             alt=&quot;Wooden bridge leading to land.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/buccaneers-5.jpg);  &quot;            title=&quot;There was lots of great sea life on this beach.&quot;&gt;        &lt;img src=&quot;/img/travel/buccaneers-5.jpg&quot;             alt=&quot;Ocean life growing on a rock on the beach.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/buccaneers-4.jpg);  &quot;            title=&quot;The rocky parts of the beach were full of life and interesting treasures. The terrain itself was quite interesting too.&quot;&gt;        &lt;img src=&quot;/img/travel/buccaneers-4.jpg&quot;             alt=&quot;Panoramic of a rocky part of Cintsa beach.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;          &lt;/figure&gt;",
+      "content": "",
       "gallery": [
         {
           "type": "",
@@ -327,7 +327,7 @@
   
     {
       "id": "2015-03-02-amakhala-game-reserve",
-      "url": "http://chrisruppel.com/travel/amakhala-game-reserve/",
+      "url": "http://localhost:3000/travel/amakhala-game-reserve/",
       "title": "Amakhala Game Reserve",
       "location": "Addo Elephant National Park",
       "date": "2015-03-02 00:00:00 +0100",
@@ -335,7 +335,7 @@
         "map": null,
       
       "summary": "We enjoyed a luxurious, thrilling safari on the Amakhala Game Reserve. We saw four of the Big 5 in their natural habitats, living freely under the protection of the game park we visited.",
-      "content": "&lt;figure class=&quot;gallery  wide&quot;&gt;            &lt;span class=&quot;photo wide&quot;            style=&quot;background-image: url(/img/travel/amakhala-1.jpg); background-position: 0 38%; &quot;            title=&quot;Our view as we drove throughout the park.&quot;&gt;        &lt;img src=&quot;/img/travel/amakhala-1.jpg&quot;             alt=&quot;Viewing the wilderness from a land rover.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/amakhala-2.jpg); background-position: 35% 0; &quot;            title=&quot;Our guide, Learnmore, who went by Lenny for short. He was extremely knowledgable and bold, getting us as close to the animals as possible while keeping us safe.&quot;&gt;        &lt;img src=&quot;/img/travel/amakhala-2.jpg&quot;             alt=&quot;A park guide for Amakhala.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/amakhala-3.jpg);  &quot;            title=&quot;&quot;&gt;        &lt;img src=&quot;/img/travel/amakhala-3.jpg&quot;             alt=&quot;Zebras grazing in a field.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/amakhala-4.jpg);  &quot;            title=&quot;&quot;&gt;        &lt;img src=&quot;/img/travel/amakhala-4.jpg&quot;             alt=&quot;Facing the sunset in a field.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/amakhala-5.jpg); background-position: 50% 0; &quot;            title=&quot;We spotted this family of rhinos lined up just perfectly.&quot;&gt;        &lt;img src=&quot;/img/travel/amakhala-5.jpg&quot;             alt=&quot;Three rhinos.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/amakhala-6.jpg);  &quot;            title=&quot;The lion was protecting a recent kill that was noticed the day before in the morning, but the lioness was fairly comfortable with us observing her two cubs. Eventually she shooed them off into the bushes but we got to watch them for at least 15 minutes.&quot;&gt;        &lt;img src=&quot;/img/travel/amakhala-6.jpg&quot;             alt=&quot;A lioness and two cubs.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/amakhala-9.jpg); background-position: 25% 0; &quot;            title=&quot;Look, there&#39;s a giraffe on the left!&quot;&gt;        &lt;img src=&quot;/img/travel/amakhala-9.jpg&quot;             alt=&quot;A giraffe grazing on a tree.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/amakhala-8.jpg);  &quot;            title=&quot;Eventually the matriarch got annoyed with us, most likely attempting to defend the newborn that was with them. We watched the elephants for about 20 minutes because they were occupying the only path back to our lodge, and we had to let all of them cross the road first&quot;&gt;        &lt;img src=&quot;/img/travel/amakhala-8.jpg&quot;             alt=&quot;An elephant approaching our vehicle.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/amakhala-7.jpg);  &quot;            title=&quot;This herd was probably 30 strong, with the matriarch easily identifiable due to a transponder placed on her head.&quot;&gt;        &lt;img src=&quot;/img/travel/amakhala-7.jpg&quot;             alt=&quot;A herd of elephants grazing in a field.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;          &lt;/figure&gt;",
+      "content": "",
       "gallery": [
         {
           "type": "wide",
@@ -432,7 +432,7 @@
   
     {
       "id": "2015-02-27-jeffreys-bay-south-africa",
-      "url": "http://chrisruppel.com/travel/jeffreys-bay-south-africa/",
+      "url": "http://localhost:3000/travel/jeffreys-bay-south-africa/",
       "title": "J-Bay",
       "location": "Jeffreys Bay, South Africa",
       "date": "2015-02-27 00:00:00 +0100",
@@ -440,7 +440,7 @@
         "map": null,
       
       "summary": "Jeffreys Bay is a popular surfing spot with great beaches. We took it easy here and just enjoyed the scenery.",
-      "content": "&lt;figure class=&quot;gallery  wide&quot;&gt;            &lt;span class=&quot;photo wide&quot;            style=&quot;background-image: url(/img/travel/jeffreys-bay-1.jpg); background-position: 15% 0; &quot;            title=&quot;&quot;&gt;        &lt;img src=&quot;/img/travel/jeffreys-bay-1.jpg&quot;             alt=&quot;Panoramic photo of the beach.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/jeffreys-bay-2.jpg); background-position: 15% 0; &quot;            title=&quot;Our beach house was called Starfish Surfhouse&quot;&gt;        &lt;img src=&quot;/img/travel/jeffreys-bay-2.jpg&quot;             alt=&quot;Decorations at a beach house.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/jeffreys-bay-3.jpg); background-position: 35% 0; &quot;            title=&quot;Karin had to get a photo next to this gigantor Agave plant.&quot;&gt;        &lt;img src=&quot;/img/travel/jeffreys-bay-3.jpg&quot;             alt=&quot;Woman standing next to Agave plant.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/jeffreys-bay-4.jpg);  &quot;            title=&quot;&quot;&gt;        &lt;img src=&quot;/img/travel/jeffreys-bay-4.jpg&quot;             alt=&quot;Waves crashing on the beach.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;                    &lt;span class=&quot;photo&quot;            style=&quot;background-image: url(/img/travel/jeffreys-bay-5.jpg);  &quot;            title=&quot;Karin hunts for sea glass at sunset.&quot;&gt;        &lt;img src=&quot;/img/travel/jeffreys-bay-5.jpg&quot;             alt=&quot;The beach at sunset.&quot;             class=&quot;element-invisible&quot;&gt;      &lt;/span&gt;          &lt;/figure&gt;",
+      "content": "",
       "gallery": [
         {
           "type": "wide",
@@ -497,7 +497,7 @@
   
     {
       "id": "2015-02-26-mossel-bay-south-africa",
-      "url": "http://chrisruppel.com/travel/mossel-bay-south-africa/",
+      "url": "http://localhost:3000/travel/mossel-bay-south-africa/",
       "title": "Relaxing on the beach",
       "location": "Mossel Bay, South Africa",
       "date": "2015-02-26 00:00:00 +0100",
@@ -552,7 +552,7 @@
   
     {
       "id": "2015-02-25-cape-town-lions-head",
-      "url": "http://chrisruppel.com/travel/cape-town-lions-head/",
+      "url": "http://localhost:3000/travel/cape-town-lions-head/",
       "title": "Lion&#39;s Head",
       "location": "Cape Town, South Africa",
       "date": "2015-02-25 00:00:00 +0100",
@@ -627,7 +627,7 @@
   
     {
       "id": "2015-02-20-cape-town-table-mountain",
-      "url": "http://chrisruppel.com/travel/cape-town-table-mountain/",
+      "url": "http://localhost:3000/travel/cape-town-table-mountain/",
       "title": "Setting the table",
       "location": "Cape Town, South Africa",
       "date": "2015-02-20 00:00:00 +0100",
