@@ -698,6 +698,166 @@
         
       ]
     }
+    ,
+  
+    {
+      "id": "2012-08-28-mussels-in-brussels",
+      "url": "http://chrisruppel.com/travel/mussels-in-brussels/",
+      "title": "Mussels in Brussels",
+      "location": "Brussels, Belgium",
+      "date": "2012-08-28 00:00:00 +0200",
+      
+        "map": null,
+      
+      "summary": "When I think of Brussels two things come to mind — the best beer in the world, and great food to soak it up.",
+      "content": "",
+      "gallery": [
+        {
+          "type": "",
+          "src": "brussels-1.jpg",
+          "alt": "A street in Belgium at dusk",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "The night comes alive."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "brussels-2.jpg",
+          "alt": "A glass of beer.",
+          "bgpos": "0 40%",
+          "bgpad": "",
+          "comment": "Moeder Lambic, one of the two best bars in Brussels."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "brussels-3.jpg",
+          "alt": "Mussels on ice waiting to be eaten.",
+          "bgpos": "0 50%",
+          "bgpad": "",
+          "comment": "Mussels on ice waiting to be eaten."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "brussels-4.jpg",
+          "alt": "A glass of beer.",
+          "bgpos": "0 40%",
+          "bgpad": "",
+          "comment": "More beer."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "brussels-5.jpg",
+          "alt": "A belgian waffle with cream and other toppings.",
+          "bgpos": "0 30%",
+          "bgpad": "",
+          "comment": "Mmmmm, belgian waffles."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "brussels-6.jpg",
+          "alt": "Glasses and bottles of beer on a table.",
+          "bgpos": "0 20%",
+          "bgpad": "",
+          "comment": "Drinking with Morten and Stephanie in Delirium Café."
+        }
+        
+      ]
+    }
+    ,
+  
+    {
+      "id": "2012-08-26-first-trip-to-freiburg",
+      "url": "http://chrisruppel.com/travel/first-trip-to-freiburg/",
+      "title": "First trip to Freiburg",
+      "location": "Freiburg, Germany",
+      "date": "2012-08-26 00:00:00 +0200",
+      
+        "map": null,
+      
+      "summary": "Freiburg was my first stop after DrupalCon Munich. Little did I know it would be the best stop on my trip through Europe! This day was the catalyst for my moving to Europe to be with Karin.",
+      "content": "",
+      "gallery": [
+        {
+          "type": "",
+          "src": "freiburg-1.jpg",
+          "alt": "An old church tower with a clock.",
+          "bgpos": "50% 0",
+          "bgpad": "",
+          "comment": "The Freiburger Münster, the historical cathedral in the &#39;old town&#39; of Freiburg."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "freiburg-2.jpg",
+          "alt": "A manhole cover with elaborate artwork of a castle.",
+          "bgpos": "0 45%",
+          "bgpad": "",
+          "comment": "These manhole covers are all over town. There is a water tower made in the image of these."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "freiburg-3.jpg",
+          "alt": "A scenic view of east Freiburg from atop a vineyeard-covered hill.",
+          "bgpos": "0 85%",
+          "bgpad": "",
+          "comment": "Looking toward the Black Forest from the top of Schlossberg."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "freiburg-4.jpg",
+          "alt": "A stone tile icon representing an Apotheke.",
+          "bgpos": "0 45%",
+          "bgpad": "",
+          "comment": "During pre-literate times in Freiburg, stone artwork was constructed in order to show illiterate citizens where they could find food, medicine, and other essential goods and services."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "freiburg-5.jpg",
+          "alt": "A red building in the tradition of 13th century Germany.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "The Historisches Kaufhaus is a historically important market building, which is still the site of Freiburg&#39;s market to this day."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "freiburg-6.jpg",
+          "alt": "A birds-eye view of the city from the top of the Münster clock tower.",
+          "bgpos": "0 35%",
+          "bgpad": "",
+          "comment": "Looking down on the Münsterplatz from the clock tower. Schwabentor is far in the background too."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "freiburg-7.jpg",
+          "alt": "A happy couple in a bar.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "The first photo of Karin and me! After they showed us around town we went out for drinks at Schlappen."
+        }
+        
+      ]
+    }
     
   ]
 }
