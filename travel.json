@@ -701,6 +701,61 @@
     ,
   
     {
+      "id": "2012-12-06-mendoza-argentina",
+      "url": "http://chrisruppel.com/travel/mendoza-argentina/",
+      "title": "Don&#39;t cry for me",
+      "location": "Mendoza, Argentina",
+      "date": "2012-12-06 00:00:00 +0100",
+      
+        "map": null,
+      
+      "summary": "We spent an extra day in Mendoza due to bus strikes. We used it well, finding a beautiful hotel and exploring more of the downtown area.",
+      "content": "",
+      "gallery": [
+        {
+          "type": "wide",
+          "src": "mendoza-1.jpg",
+          "alt": "A fountain with pink water.",
+          "bgpos": "0 60%",
+          "bgpad": "",
+          "comment": "I think this has to do with wine, but th fountains were all pink when we walked around."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "mendoza-2.jpg",
+          "alt": "Two backpackers in a mirror.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "We didn&#39;t snap so many photos of ourselves at this point, but this is one of my favorites and I&#39;m glad I convinced Karin to take it."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "mendoza-3.jpg",
+          "alt": "An old bank building in Mendoza.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "The architecture here was intricate and fascinating. I definitely saw the Spanish influence."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "mendoza-4.jpg",
+          "alt": "A statue of a man on the back of a bucking horse.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "There were many fun statues in town."
+        }
+        
+      ]
+    }
+    ,
+  
+    {
       "id": "2012-12-05-aconcagua-argentina",
       "url": "http://chrisruppel.com/travel/aconcagua-argentina/",
       "title": "Cerro Aconcagua",
