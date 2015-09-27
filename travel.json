@@ -701,6 +701,176 @@
     ,
   
     {
+      "id": "2012-12-05-aconcagua-argentina",
+      "url": "http://chrisruppel.com/travel/aconcagua-argentina/",
+      "title": "Cerro Aconcagua",
+      "location": "Mendoza, Argentina",
+      "date": "2012-12-05 00:00:00 +0100",
+      
+        "map": null,
+      
+      "summary": "Starting from Mendoza, we took a day trip to see Cerro Aconcagua, the highest peak in the Americas.",
+      "content": "",
+      "gallery": [
+        {
+          "type": "",
+          "src": "aconcagua-1.jpg",
+          "alt": "Karin and I standing in front of a sign for Cerro Aconcagua.",
+          "bgpos": "45% 0",
+          "bgpad": "",
+          "comment": "We made it!"
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "aconcagua-2.jpg",
+          "alt": "A bridge over a small river.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "This bridge used to cross the river when it was much larger. Since the river is fed by ice from the mountains it gets smaller over time and the path has diverted away from the bridge."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "aconcagua-3.jpg",
+          "alt": "A close-up of a rock showing its texture.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "The rocks here were fascinating, with beautiful colors."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "aconcagua-4.jpg",
+          "alt": "A river rapids.",
+          "bgpos": "0 100%",
+          "bgpad": "",
+          "comment": "The river now flows to the right of the bridge when viewing it downhill. Since it is fed by ice, the water is sweet and full of minerals. We filled our bottles up while we were here."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "aconcagua-5.jpg",
+          "alt": "A sulfur bath, now closed.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "This sulfur-based thermal bath had a rich yellow color to it, but was unfortunately closed since 2006. I don&#39;t remember whether it was permanent or temporary."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "aconcagua-6.jpg",
+          "alt": "Stone figures made from rocks containing sulfur.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "These figures were made from stones in the area, giving them the same yellow hue as the untouched stone."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "aconcagua-7.jpg",
+          "alt": "A lake with mountains on the other side.",
+          "bgpos": "0 50%",
+          "bgpad": "",
+          "comment": "The views here were stunning and vast. there was little I could do to capture the scale of the surroundings."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "",
+          "alt": "",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": ""
+        }
+        
+      ]
+    }
+    ,
+  
+    {
+      "id": "2012-12-02-santiago-de-chile",
+      "url": "http://chrisruppel.com/travel/santiago-de-chile/",
+      "title": "Visiting Karin",
+      "location": "Santiago de Chile",
+      "date": "2012-12-02 00:00:00 +0100",
+      
+        "map": null,
+      
+      "summary": "After meeting Karin in Freiburg, I decided to visit her in Chile where she was taking time off work to travel. My first destination was Santiago, where she lived at the time.",
+      "content": "",
+      "gallery": [
+        {
+          "type": "",
+          "src": "santiago-1.jpg",
+          "alt": "A statue on a city street.",
+          "bgpos": "30% 0",
+          "bgpad": "",
+          "comment": ""
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "santiago-2.jpg",
+          "alt": "A city square with buildings in the background.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "A typical square in Santiago."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "santiago-3.jpg",
+          "alt": "Overlooking Santiago from atop a hill.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "The view was pretty swell from atop San Cristóbal Hill."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "santiago-4.jpg",
+          "alt": "Mountains visible from downtown Santiago, bright red from the sunset.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "The mountains were visible from everywhere. It was quite different than what I&#39;m used to."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "santiago-5.jpg",
+          "alt": "A brass plate featuring a diagram of Santiago in the 1700s.",
+          "bgpos": "30% 0",
+          "bgpad": "",
+          "comment": "The old city map from the 1700s."
+        }
+        ,
+      
+        {
+          "type": "",
+          "src": "santiago-6.jpg",
+          "alt": "The president&#39;s house in Santiago.",
+          "bgpos": "",
+          "bgpad": "",
+          "comment": "The Chilean Whitehouse. I kept doing double-takes at their flag since it&#39;s so similar to the Texas flag."
+        }
+        
+      ]
+    }
+    ,
+  
+    {
       "id": "2012-08-28-mussels-in-brussels",
       "url": "http://chrisruppel.com/travel/mussels-in-brussels/",
       "title": "Mussels in Brussels",
